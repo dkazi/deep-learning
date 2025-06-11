@@ -1,0 +1,5 @@
+TensorFlow version: 2.18.0
+NumPy version: 2.0.2
+Pandas version: 2.2.2
+Matplotlib version: 3.10.0
+Python version: 3.11.13 (main, Jun  4 2025, 08:57:29) [GCC 11.4.0]
